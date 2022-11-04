@@ -1,9 +1,11 @@
 .logo{
     background: #E6E6E6;
+    text-align: center;
 }
 h1{
     background: #C4C4C4;
     color: #005677;
+    text-align: center;
 }
 h2{
     background: #C4C4C4;
@@ -15,4 +17,7 @@ span{
 }
 footer{
     background-color: #005677;
+}
+.foot{
+    color: #E6E6E6;
 }
